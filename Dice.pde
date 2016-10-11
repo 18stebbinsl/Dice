@@ -1,10 +1,9 @@
 Die bob;
-
 void setup()
 {
-  noLoop();
   background(255,255,0);
   size(700,455);
+  noLoop();
 }
 void draw()
 {
